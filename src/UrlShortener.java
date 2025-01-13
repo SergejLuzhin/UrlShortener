@@ -67,8 +67,7 @@ public class UrlShortener {
         }
         return null; // Access is allowed
     }
-
-    // Новый метод
+    
     public double getElapsedTimeMinutes() {
         return Duration.between(createdAt, LocalDateTime.now()).toMinutes();
     }
