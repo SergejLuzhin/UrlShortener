@@ -16,7 +16,7 @@ URL Shortener — это консольное приложение для сок
 ### Запуск программы
 
 1. Убедитесь, что установлен Java версии 17 или выше.
-2. Скомпилируйте программу:
+2. Откройте терминал в папке проекта и скомпилируйте программу:
    ```bash
    javac Main.java UrlManager.java UrlService.java UrlShortener.java HttpRedirectServer.java
    ```
