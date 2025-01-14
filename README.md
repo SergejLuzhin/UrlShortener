@@ -1,4 +1,4 @@
-# URL Shortener - Консольное приложение
+# URL Shortener
 
 ## Описание
 
